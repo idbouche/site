@@ -52,8 +52,9 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ Style Site $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
 
 h1 {
-      width: 100%;
-      text-align: center;  
-      color: fuchsia;
+    padding-top: 40%;  
+    width: 100%;
+    text-align: center;  
+    color: lightblue;
         
  }
